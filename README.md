@@ -17,11 +17,8 @@
     <a href="https://www.linkedin.com/in/gtex/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="mailto:your-email@example.com">
+    <a href="mailto:gabrielteixeira2004@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://huggingface.co/Gabrielteixeira2004" target="_blank">
-      <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Profile-yellow?style=for-the-badge" alt="HuggingFace" />
     </a>
   </p>
 </div>
@@ -44,9 +41,9 @@
   <!-- Row 2: LLMs & Inference -->
   <b>Inference & Models</b><br>
   <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Llama_3-044A83?style=flat-square&logo=meta&logoColor=white" />
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Anthropic-Engineering-orange"/>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=linux&logoColor=white"/>
   <br><br>
 
   <!-- Row 3: Vector Ops & RAG -->
@@ -91,42 +88,11 @@ graph LR
 
 <br>
 
-<!-- PROJECTS SECTION: Clean HTML Grid -->
-<h2 align="center">🚀 Featured Agentic Projects</h2>
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🤖 Multi-Agent Financial Analyst</h3>
-      <p align="center">An autonomous crew using <b>CrewAI</b> where one agent scrapes news, another analyzes stock charts, and a third writes the report.</p>
-      <p align="center">
-        <code>Python</code> <code>LangChain</code> <code>YahooFinance API</code>
-      </p>
-      <p align="center">
-        <a href="#">View Repository</a> <!-- Link your repo here -->
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">📚 ChatWithDocs (RAG)</h3>
-      <p align="center">Production-ready RAG pipeline using <b>Pinecone</b> and <b>OpenAI</b>. Includes citation tracking and hallucination checks.</p>
-      <p align="center">
-        <code>FastAPI</code> <code>React</code> <code>Docker</code>
-      </p>
-      <p align="center">
-        <a href="#">View Repository</a> <!-- Link your repo here -->
-      </p>
-    </td>
-  </tr>
-</table>
-
-<br>
 
 <!-- STATS SECTION: The Stable Versions -->
 <h2 align="center">📈 Activity Graph</h2>
-<div align="center">
-  <!-- Top: GitHub Stats (Dark Theme) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Gabrielteixeira2004&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117" height="180" alt="stats graph" />
-  
+<div align="center">  
   <!-- Bottom: The Streak (Using Demolab for stability) -->
   <img src="https://streak-stats.demolab.com?user=Gabrielteixeira2004&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&bg_color=0d1117" height="180" alt="streak graph" />
 </div>
